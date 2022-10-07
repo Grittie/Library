@@ -1,0 +1,10 @@
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/repository/BookRepository.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/controller/AuthorController.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/exception/ControllerExceptionHandler.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/LibraryTraineeApplication.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/exception/ResourceNotFoundException.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/repository/AuthorRepository.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/model/Author.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/model/Book.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/exception/ErrorMessage.java
+/Users/grittie/Workspace/CSAT/LibraryTrainee/src/main/java/com/example/librarytrainee/controller/BookController.java
